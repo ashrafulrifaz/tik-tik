@@ -13,18 +13,18 @@ const Header = () => {
                     </Link>
                 </li>
                 <li>
-                    <Link href="#">
+                    <Link href="/products">
                         <span className='font-medium text-lg'>Products</span>
                     </Link>
                 </li>
                 <li>
                     <Link href="#">
-                        <span className='font-medium text-lg'>Men</span>
+                        <span className='font-medium text-lg'>Men{"'"}s</span>
                     </Link>
                 </li>
                 <li>
                     <Link href="#">
-                        <span className='font-medium text-lg'>Women</span>
+                        <span className='font-medium text-lg'>Women{"'"}s</span>
                     </Link>
                 </li>
                 <li>

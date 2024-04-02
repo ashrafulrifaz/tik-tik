@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.error-image {
+    @apply w-3/5 mx-auto
+}
+
+.prim-btn {
+    @apply text-black bg-primary rounded-md py-2.5 px-4 font-medium
+}
