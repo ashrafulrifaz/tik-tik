@@ -5,10 +5,12 @@ import Link from 'next/link';
 const Header = () => {
     return (
         <div className='py-4 flex justify-between items-center'>
-            <Image src={logo} width={100} alt='logo'/>
+            <Link href="/">
+                <Image src={logo} width={100} alt='logo'/>
+            </Link>
             <ul className='flex gap-7'>
                 <li>
-                    <Link href="#">
+                    <Link href="/">
                         <span className='font-medium text-lg'>Home</span>
                     </Link>
                 </li>

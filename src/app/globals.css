@@ -7,5 +7,17 @@
 }
 
 .prim-btn {
-    @apply text-black bg-primary rounded-md py-2.5 px-4 font-medium
+    @apply text-black bg-primary rounded-full py-2.5 px-6 font-medium
+}
+
+.second-btn {
+    @apply text-black border-2 border-primary rounded-full py-2.5 px-6 font-medium
+}
+
+.banner-tab {
+    @apply border-2 border-[#d6ccc2] rounded-md p-2.5 cursor-pointer
+}
+
+.banner-image {
+    @apply -rotate-[30deg] w-[65%] absolute left-[80%] top-1/2 transform -translate-x-1/2 -translate-y-1/2
 }
