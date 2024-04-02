@@ -19,5 +19,5 @@
 }
 
 .banner-image {
-    @apply -rotate-[30deg] w-[65%] absolute left-[80%] top-1/2 transform -translate-x-1/2 -translate-y-1/2
+    @apply rotate-45 w-full
 }

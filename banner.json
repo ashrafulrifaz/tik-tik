@@ -1,0 +1,32 @@
+{
+    "banner": [
+        {
+            "id": "1",
+            "name": "Rolex Submariner",
+            "description": "Sleek and durable, our Titanium Chronograph watch boasts a sophisticated design that suits both casual and formal occasions.",
+            "price": "9,550",
+            "image": "https://i.ibb.co/wcqHMJR/watch-1.png"
+        },
+        {
+            "id": "2",
+            "name": "Titanium Chronograph",
+            "description": "Embrace timeless elegance with our Heritage Automatic watch. Crafted with precision and attention to detail, it's a statement piece for any watch enthusiast.",
+            "price": "950",
+            "image": "https://i.ibb.co/RvZtYrS/watch-2.png"
+        },
+        {
+            "id": "3",
+            "name": "Heritage Automatic",
+            "description": "ngineered for underwater exploration, this rugged timepiece is water-resistant up to 200 meters, making it the perfect companion for aquatic activities.",
+            "price": "3,550",
+            "image": "https://i.ibb.co/xGKdJmH/watch-3.png"
+        },
+        {
+            "id": "4",
+            "name": "Sports Diver Pro",
+            "description": "Combining cutting-edge technology with refined aesthetics, this smartwatch offers a range of features including heart rate monitoring, activity tracking, and smartphone notifications.",
+            "price": "1,200",
+            "image": "https://i.ibb.co/3Yz8pQK/watch-4.png"
+        }
+    ]
+}
